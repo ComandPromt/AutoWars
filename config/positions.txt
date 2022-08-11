@@ -1,0 +1,78 @@
+
+Position 1
+
+X --> 375
+
+Y --> 210
+
+Position 2
+
+X --> 510
+
+Y --> 210
+
+Position 3
+
+X --> 610
+
+Y --> 210
+
+Position 4
+
+X --> 370
+
+Y --> 300
+
+Position 5
+
+X --> 495
+
+Y --> 300
+
+Position 6
+
+X --> 620
+
+Y --> 300
+
+Position 7
+
+X --> 340
+
+Y --> 400
+
+Position 8
+
+X --> 480
+
+Y --> 400
+
+Position 9
+
+X --> 620
+
+Y --> 400
+
+Position 10
+
+X --> 310
+
+Y --> 510
+
+Position 11
+
+X --> 460
+
+Y --> 510
+
+Position 12
+
+X --> 615
+
+Y --> 510
+
+Position 13
+
+X --> 1075
+
+Y --> 675

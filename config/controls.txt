@@ -1,0 +1,34 @@
+
+card 1 --> A
+
+card 2 --> B
+
+card 3 --> C
+
+card 4 --> D
+
+posicion 1 --> 1
+
+posicion 2 --> 2
+
+posicion 3 --> 3
+
+posicion 4 --> 4
+
+posicion 5 --> 5
+
+posicion 6 --> 6
+
+posicion 7 --> 7
+
+posicion 8 --> 8
+
+posicion 9 --> 9
+
+posicion 10 --> Q
+
+posicion 11 --> W
+
+posicion 12 --> E
+
+posicion 13 --> R
